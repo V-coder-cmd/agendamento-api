@@ -48,7 +48,7 @@ agendamento_api/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/V-coder-cmd/agendamento-api
 cd agendamento_api
 ```
 
