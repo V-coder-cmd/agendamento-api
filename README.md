@@ -48,7 +48,7 @@ agendamento_api/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/V-coder-cmd/agendamento-api
 cd agendamento_api
 ```
 
@@ -105,7 +105,7 @@ http://127.0.0.1:5000
 
 ```json
 {
-    "nome": "Seu Nome Aqui",
+  "nome": "Seu Nome Aqui",
   "email": "seu_email@email.com",
   "data": "2026-01-10",
   "horario": "14:00"
