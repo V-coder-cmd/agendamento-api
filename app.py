@@ -61,7 +61,7 @@ def deletar_agendamento(id):
         agendamento["horario"]
     )
 
-    return {"status": "Agendamento removido com sucesso"}, 200
+    return {"status": "Agendamento removido e e-mail enviado com sucesso"}, 200
 
 
 @app.route("/agendamentos", methods = ["GET"])

@@ -45,7 +45,7 @@ def enviar_cancelamento(nome, email, data, horario):
     <html>
         <body>
             <h2>Olá, {nome}</h2>
-            <p>Seu agendamento foi <b>cancelado com sucesso</b></p>
+            <p>Seu agendamento foi <b>Cancelado com sucesso</b></p>
             <ul>
                 <li><b>Data:</b> {data}</li>
                 <li><b>Horário:</b> {horario}</li>
